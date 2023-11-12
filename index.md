@@ -21,3 +21,8 @@ func main() {
 }
 ```
 
+- [x] Pass AWS Certified Cloud Practitioner Exam
+- [ ] Pass Terraform Associate Exam
+- [ ] Pass Certified Kubernetes Application Developer (CKAD)
+- [ ] Pass AWS Certified Solutions Architect – Associate
+
